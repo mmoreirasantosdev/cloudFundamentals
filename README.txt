@@ -26,7 +26,6 @@ WebSite-Endpoint: http://my-799872725746-site.s3-website-us-east-1.amazonaws.com
 
 Bucket Url: https://my-799872725746-site.s3.us-east-2.amazonaws.com/index.html
 
-bla
 
 
 
